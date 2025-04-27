@@ -54,6 +54,3 @@ This project is a comprehensive SQL-based analysis of a pizza restaurant's sales
 - Developed a business-oriented mindset for analyzing data to support decision-making.
 - Practiced writing optimized SQL queries for real-world datasets.
 
----
-
-### 🚀 Feel free to explore the queries and adapt them for similar analysis projects!
